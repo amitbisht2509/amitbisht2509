@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Amit Bisht
 
-I am a **Power BI Developer** with **#+ years of experience** in the **RPO (Recruitment Process Outsourcing) domain**, specializing in transforming data into actionable insights.  
+I am a **Power BI Developer** with **3+ years of experience** in the **RPO (Recruitment Process Outsourcing) domain**, specializing in transforming data into actionable insights.  
 With expertise in **Power BI**, **SQL**, **Power Automate**, and **Excel**, I design data-driven dashboards, automate workflows, and help organizations make informed decisions.
 
 ---
