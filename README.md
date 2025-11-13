@@ -44,7 +44,7 @@ With expertise in **Power BI**, **SQL**, **Power Automate**, and **Excel**, I de
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/amitbisht2509)
+
 - [GitHub](https://github.com/amitbisht2509)
 - [Email](mailto:amitbisht2509@gmail.com)
 
