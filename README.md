@@ -1,8 +1,8 @@
-![Profile Banner]([https://github.com/amitbisht2509/Amit-Bisht/blob/main/4df751fa-3182-45fb-bb1a-5912ade8fdf7.png?raw=true](https://github.com/amitbisht2509/amitbisht2509/blob/main/4df751fa-3182-45fb-bb1a-5912ade8fdf7.png)
+![Profile Banner](https://github.com/amitbisht2509/amitbisht2509/blob/main/4df751fa-3182-45fb-bb1a-5912ade8fdf7.png?raw=true)
 
 # Hi 👋, I'm Amit Bisht
 
-I am a **Power BI Developer** with **#+ years of experience** in the **RPO (Recruitment Process Outsourcing) domain**, specializing in transforming data into actionable insights.  
+I am a **Power BI Developer** with **3+ years of experience** in the **RPO (Recruitment Process Outsourcing) domain**, specializing in transforming data into actionable insights.  
 With a strong foundation in **Power BI**, **SQL**, **Power Automate**, and **Excel**, I build efficient data-driven solutions that enhance business performance and decision-making.  
 
 I’m passionate about designing interactive dashboards, automating workflows, and optimizing recruitment analytics to deliver measurable value.
@@ -27,9 +27,8 @@ I’m passionate about designing interactive dashboards, automating workflows, a
 ---
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/amitbisht2509)
 - [GitHub](https://github.com/amitbisht2509)
-- [Email](mailto:amitbisht2509@gmail.com)
+- [Email](amitbisht2509@gmail.com)
 
 ---
 
