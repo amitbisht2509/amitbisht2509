@@ -21,7 +21,9 @@ With expertise in **Power BI**, **SQL**, **Power Automate**, and **Excel**, I de
 ---
 
 ### [Sales Dashboard – Power BI](https://github.com/amitbisht2509/Sales-Dashboard) 
+
 📊 **Tools:** Power BI and Excel 
+
 🎯 Interactive sales dashboard for management to get sales insights.  
 
 
