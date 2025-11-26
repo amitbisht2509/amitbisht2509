@@ -9,7 +9,8 @@ With expertise in **Power BI**, **SQL**, **Power Automate**, and **Excel**, I de
 
 ## 💼 Featured Projects
 
-### 🟦 [Retail Sales SQL Analytics Project](https://github.com/amitbisht2509/retail-sales-sql-project)
+### 🟦 [Sales Store SQL Analytics Project (SQL Server)](https://github.com/amitbisht2509/Sales-Store-SQL-Analytics-Project-SQL-Server-)
+
 📊 **Tools:** SQL, Excel  
 📈 Analyzed over **10,000+ sales records** to extract insights on revenue, customer trends, and product performance.  
 🔍 Key Work:
@@ -19,10 +20,10 @@ With expertise in **Power BI**, **SQL**, **Power Automate**, and **Excel**, I de
 
 ---
 
-### 🟨 Power BI HR Dashboard *(Coming Soon)*  
-📊 **Tools:** Power BI, Power Automate, SQL  
-🎯 Interactive HR analytics dashboard for recruitment performance, offer acceptance rates, and hiring trends.  
-🔧 Automates monthly reporting using Power Automate.  
+### [Sales Dashboard – Power BI](https://github.com/amitbisht2509/Sales-Dashboard) 
+📊 **Tools:** Power BI and Excel 
+🎯 Interactive sales dashboard for management to get sales insights.  
+
 
 ---
 
