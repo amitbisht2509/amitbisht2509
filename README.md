@@ -31,8 +31,7 @@ With expertise in **Power BI**, **SQL**, and **Excel**, I design data-driven das
 
 ## 💡 Technical Skills
 - **Power BI** – Dashboard creation, DAX, data modeling, visualization  
-- **SQL** – Data extraction, transformation, and KPI reporting  
-- **Power Automate** – Workflow automation for reports  
+- **SQL** – Data extraction, transformation, and KPI reporting    
 - **Excel** – Advanced analytics, Power Query, Pivot tables  
 - **RPO Domain Expertise** – Recruitment metrics and analytics  
 
